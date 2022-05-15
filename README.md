@@ -11,3 +11,14 @@ Tasks:
 - gulp scripts = js (without uglify by default)
 - gulp images = imagemin
 - gulp sync = browser sync
+
+----
+Folder tree:
+```
+├── src
+│   ├── js
+│   ├── img
+│   ├── pug
+│   ├── scss
+├── .html (if need it)
+```
